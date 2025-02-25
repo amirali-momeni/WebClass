@@ -1,8 +1,8 @@
 :root{
-    --mainColour: red;
-    --titleCOlour: red;
-    --secoundaryColour: red;
-    --mainPadding: red;
+    --mainColour: lightblue;
+    --titleCOlour: darkblue;
+    --secoundaryColour: lightgreen;
+    --mainPadding: blue;
 }
 .container{
     background-color: var(--mainColour);
@@ -30,4 +30,5 @@ button:hover{
         background-color: aquamarine;
         color: aqua;
     }
-}*/
+}
+    dd
