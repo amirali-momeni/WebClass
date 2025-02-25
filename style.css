@@ -1,7 +1,7 @@
 :root{
-    --mainColour: lightblue;
-    --titleCOlour: darkblue;
-    --secoundaryColour: lightgreen;
+    --mainColour: red;
+    --titleCOlour: red;
+    --secoundaryColour: red;
     --mainPadding: red;
 }
 .container{
