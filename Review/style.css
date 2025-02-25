@@ -1,0 +1,33 @@
+:root{
+    --mainColour: lightblue;
+    --titleCOlour: darkblue;
+    --secoundaryColour: lightgreen;
+    --mainPadding: blue;
+}
+.container{
+    background-color: var(--mainColour);
+    color: var(--titleCOlour);
+    padding: var(--mainPadding);
+}
+button{
+    background-color:gray;
+    color: black;
+}
+
+button:hover{
+    background-color: black;
+    color: gray;
+}
+
+/*@media screen and (orientation:landscape){
+    .container{
+        padding: 10px;
+        background-color: var(--secoundaryColour);
+        color: var(--titleCOlour);
+    }
+    button{
+        width: 50%;
+        background-color: aquamarine;
+        color: aqua;
+    }
+}*/
