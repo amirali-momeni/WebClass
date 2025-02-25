@@ -2,7 +2,7 @@
     --mainColour: lightblue;
     --titleCOlour: darkblue;
     --secoundaryColour: lightgreen;
-    --mainPadding: blue;
+    --mainPadding: red;
 }
 .container{
     background-color: var(--mainColour);
